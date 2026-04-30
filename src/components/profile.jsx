@@ -24,6 +24,7 @@ const [theme, setTheme] = useState('dark');
             
             <div className="flex flex-col items-start gap-2 w-full max-w-2xl">
                 <div className="flex items-center justify-between gap-2 w-full">
+                    <h1 className=" text-lg md:text-2xl font-bold truncate">Elmer Benitez II</h1>
                     <a>
                     <button
                         className="dark:text-white py-2"
