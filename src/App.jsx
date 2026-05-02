@@ -15,7 +15,7 @@ function App() {
                 <Profile/>
                 <div className="grid grid-cols-1 lg:grid-cols-6 gap-2">
                     <div className="col-span-4">        
-                        <About />
+                       
                         <TechStack />
                         <Recent />
                     </div>
