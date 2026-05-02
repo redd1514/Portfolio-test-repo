@@ -17,7 +17,7 @@ function App() {
                     <div className="col-span-4">        
                         <About />
                         <TechStack />
-                        
+                        <Recent />
                     </div>
                     <div className="col-span-2">
                         <Experience />
